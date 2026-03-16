@@ -1,117 +1,207 @@
-<h1 align="center">Hi, I'm Khushi Patel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>MS Applied Data Science @ USC Viterbi &nbsp;|&nbsp; 4.0 GPA</b><br>
-  Data Scientist · ML Engineer · AI Engineer · Data Engineer
-</p>
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Khushi%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MS%20Applied%20Data%20Science%20%40%20USC%20Viterbi%20%7C%204.0%20GPA&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushipatel2024">
-    <img src="https://img.shields.io/badge/LinkedIn-khushipatel2024-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Khushipatel27">
-    <img src="https://img.shields.io/badge/GitHub-Khushipatel27-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer+%7C+AI+Engineer;Building+end-to-end+ML+%26+AI+systems;RAG+Apps+%E2%80%A2+Computer+Vision+%E2%80%A2+Time+Series;Open+to+Summer+2026+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushipatel2024-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushipatel2024)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Khushipatel27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khushipatel27)
+&nbsp;
+[![USC](https://img.shields.io/badge/USC%20Viterbi-MS%20Applied%20Data%20Science-990000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://www.usc.edu)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I'm a first-year MS Applied Data Science student at USC Viterbi with a background in Computer Science. I build end-to-end ML and AI systems — from real-time computer vision pipelines and time-series forecasters to RAG-based LLM apps and interactive analytics dashboards. I'm actively seeking **Summer 2026 internships** in Data Science, ML Engineering, and AI Engineering.
+> *"I build systems that turn raw data into decisions."*
+
+First-year **MS Applied Data Science** student at **USC Viterbi** (4.0 GPA) with a background in Computer Science. I specialize in building **end-to-end ML and AI pipelines** — from real-time computer vision systems and hybrid forecasting models to LLM-powered RAG apps and interactive analytics dashboards.
+
+🔭 Currently working on deploying production-grade ML systems with Streamlit  
+🌱 Deepening expertise in LLMs, distributed computing (PySpark), and MLOps  
+💡 Interested in AI/ML, data engineering, and applied analytics  
+📫 Open to **Summer 2026 internships** — Data Science · ML Engineering · AI Engineering · Data Engineering
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔍 [Finance RAG App](https://github.com/Khushipatel27)
-**Retrieval-Augmented Generation for financial document Q&A**
-- Built a RAG pipeline using LangChain + vector embeddings to answer questions over financial PDFs
-- Improved PDF extraction quality and deployed as a Streamlit app with UptimeRobot keep-alive
-- **Stack:** Python · LangChain · FAISS · Streamlit · OpenAI API
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔍 Finance RAG App
+[![Repo](https://img.shields.io/badge/Repo-SEC--RAG--Analyst-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/SEC-RAG-Analyst)
 
-### 📈 [Customer Lifetime Value Prediction](https://github.com/Khushipatel27)
-**End-to-end CLV modeling for business intelligence**
-- Predicted customer lifetime value using RFM features and regression models
-- Built an interactive Streamlit dashboard for business stakeholders
-- **Stack:** Python · Scikit-learn · Pandas · Streamlit
+RAG pipeline for financial document Q&A over SEC filings and PDFs using LangChain + FAISS vector search. Deployed on Streamlit with UptimeRobot keep-alive.
 
----
+`Python` `LangChain` `FAISS` `Streamlit` `OpenAI API`
 
-### 🚗 [Car Crash Detection & Risk Analysis System](https://github.com/Khushipatel27/Car-Crash-Detection)
-**Real-time computer vision system for crash detection and risk scoring**
-- Fine-tuned YOLOv8n and YOLOv8m models; achieved ~60% detection accuracy on annotated crash video data
-- Built speed estimation, crash risk scoring (color-coded bounding boxes: 🟩🟨🟥), and auto-SOS email/SMS alerts
-- Generated automated CSV reports with vehicle tracking IDs, speed, and crash probability
-- **Stack:** Python · YOLOv8 · OpenCV · Pandas · SMTP / Twilio API
+</td>
+<td width="50%" valign="top">
 
----
+### 📈 Customer Lifetime Value Prediction
+[![Repo](https://img.shields.io/badge/Repo-Customer--Life--Value-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/Customer-Life-Value)
 
-### ⚡ [Electricity Demand Forecasting](https://github.com/Khushipatel27)
-**Hybrid time-series forecasting with LSTM, XGBoost & SARIMA**
-- Developed a stacked ensemble combining deep learning and traditional statistical models for energy demand prediction
-- Compared model performance across RMSE, MAE, and MAPE metrics
-- **Stack:** Python · TensorFlow/Keras · XGBoost · Statsmodels · Matplotlib
+End-to-end CLV modeling using RFM features + regression. Interactive Streamlit dashboard built for business stakeholders.
 
----
+`Python` `Scikit-learn` `Pandas` `Streamlit`
 
-### 🎬 [Movie Recommendation System](https://github.com/Khushipatel27/Movie-Recommendation)
-**Hybrid recommender with collaborative and content-based filtering**
-- Built a recommendation engine using collaborative filtering + content-based signals
-- Deployed as an interactive Streamlit app
-- **Stack:** Python · Scikit-learn · Pandas · Streamlit
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-### 📊 [NYC Subway Delay Analytics Dashboard](https://github.com/Khushipatel27)
-**PySpark-powered transit analytics dashboard**
-- Processed large-scale NYC MTA delay data using PySpark for distributed computation
-- Built an interactive dashboard visualizing delay patterns by line, time, and station
-- **Stack:** PySpark · Python · Plotly Dash · Pandas
+### 🚗 Car Crash Detection & Risk Analysis
+[![Repo](https://img.shields.io/badge/Repo-Car--Crash--Detection-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/Car-Crash-Detection)
 
----
+Real-time CV system with YOLOv8 (n + m). Speed estimation, color-coded risk bounding boxes 🟩🟨🟥, auto SOS alerts, and CSV crash reports. ~60% detection accuracy.
 
-### 🧾 [Comprehensive Sales EDA Dashboard](https://github.com/Khushipatel27/Comprehensive-Sales-EDA-Dashboard)
-**Interactive exploratory dashboard for sales analytics**
-- Performed full EDA including trend analysis, seasonality, and product-level breakdowns
-- Built interactive visualizations for business stakeholders
-- **Stack:** Python · Pandas · Matplotlib · Seaborn · Plotly
+`Python` `YOLOv8` `OpenCV` `Pandas` `Twilio`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 👤 [Face Recognition Attendance System](https://github.com/Khushipatel27/Face-Recognition-Attendance-System)
-**Automated attendance tracking using real-time face recognition**
-- Built a face detection and recognition pipeline for marking attendance automatically from a live camera feed
-- **Stack:** Python · OpenCV · face_recognition · Pandas
+### ⚡ Electricity Demand Forecasting
+[![Repo](https://img.shields.io/badge/Repo-Forecasting-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27)
 
----
+Hybrid time-series ensemble: LSTM + XGBoost + SARIMA. Benchmarked across RMSE, MAE, and MAPE.
 
-### 📊 [GitHub Self-Analysis](https://github.com/Khushipatel27)
-**LLM-powered analysis of personal GitHub activity**
-- Built a Jupyter notebook with 7 LLM analysis tasks and 6 visualizations using local models (Llama 3.1 8B, Mistral 7B via Ollama)
-- Deployed an accompanying Streamlit dashboard; submitted as part of an internship hiring assignment
-- **Stack:** Python · Ollama · Llama 3.1 · Mistral · Streamlit · Matplotlib
+`Python` `TensorFlow/Keras` `XGBoost` `Statsmodels`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CineMatch — Movie Recommender
+[![Repo](https://img.shields.io/badge/Repo-CineMatch-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/CineMatch)
+
+Hybrid recommender combining collaborative filtering + content-based signals. Deployed as a Streamlit app.
+
+`Python` `Scikit-learn` `Pandas` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚇 NYC Subway Delay Analytics
+[![Repo](https://img.shields.io/badge/Repo-NYC--Delay--Dashboard-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/NYC-Delay-Dashboard)
+
+PySpark-powered MTA delay analysis. Interactive dashboard showing patterns by line, station, and time.
+
+`PySpark` `Python` `Plotly Dash` `Pandas`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Sales EDA Dashboard
+[![Repo](https://img.shields.io/badge/Repo-Sales--EDA--Dashboard-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/Sales-EDA-Dashboard)
+
+Full EDA with trend analysis, seasonality breakdowns, and product-level performance. Built for business stakeholders.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly`
+
+</td>
+<td width="50%" valign="top">
+
+### 👤 Face Recognition Attendance System
+[![Repo](https://img.shields.io/badge/Repo-Face--Recognition-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/Face-Recognition-Attendance-System)
+
+Automated attendance tracking using real-time face detection and recognition from a live camera feed.
+
+`Python` `OpenCV` `face_recognition` `Pandas`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 GitHub Self-Analysis (LLM-Powered)
+[![Repo](https://img.shields.io/badge/Repo-Github--Self--Analysis-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/Github-Self-Analysis)
+
+7 LLM analysis tasks + 6 visualizations using local Llama 3.1 8B & Mistral 7B (Ollama). Streamlit dashboard submitted as an internship hiring assignment.
+
+`Python` `Ollama` `Llama 3.1` `Mistral` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| **Languages** | Python · SQL · Scala · R |
-| **ML / DL** | Scikit-learn · TensorFlow · Keras · PyTorch · XGBoost · YOLOv8 |
-| **Data Engineering** | PySpark · Pandas · NumPy · Hadoop |
-| **LLM / AI** | LangChain · FAISS · Ollama · Llama 3.1 · Mistral · OpenAI API |
-| **Visualization** | Plotly · Matplotlib · Seaborn · Streamlit · Dash |
-| **Tools & Cloud** | Git · GitHub · Jupyter · VS Code · Conda · Linux |
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**ML / Deep Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-004A7C?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+
+**LLM / AI**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Data Engineering**  
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Visualization & Deployment**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/khushipatel2024)
-- 🐙 [GitHub](https://github.com/Khushipatel27)
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Khushipatel27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushipatel27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</div>
 
-> *Open to Summer 2026 internship opportunities in Data Science, ML Engineering, AI Engineering, Data Engineering, and Data Analytics.*
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushipatel27&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*I'm open to Summer 2026 internship opportunities in Data Science, ML Engineering, AI Engineering, Data Engineering, and Data Analytics.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushipatel2024)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+</div>
