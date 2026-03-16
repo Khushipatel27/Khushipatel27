@@ -12,7 +12,7 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Khushipatel27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khushipatel27)
 &nbsp;
-[![USC](https://img.shields.io/badge/USC%20Viterbi-MS%20Applied%20Data%20Science-990000?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)](https://www.usc.edu)
+[![USC](https://img.shields.io/badge/USC%20Viterbi-MS%20Applied%20Data%20Science-990000?style=for-the-badge&logoColor=white)](https://www.usc.edu)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 First-year **MS Applied Data Science** student at **USC Viterbi** (4.0 GPA) with a background in Computer Science. I specialize in building **end-to-end ML and AI pipelines** — from real-time computer vision systems and hybrid forecasting models to LLM-powered RAG apps and interactive analytics dashboards.
 
-🔭 Currently working on deploying production-grade ML systems with Streamlit  
+🔭 Currently deploying production-grade ML systems with Streamlit  
 🌱 Deepening expertise in LLMs, distributed computing (PySpark), and MLOps  
 💡 Interested in AI/ML, data engineering, and applied analytics  
 📫 Open to **Summer 2026 internships** — Data Science · ML Engineering · AI Engineering · Data Engineering
@@ -138,7 +138,6 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 </td>
 <td width="50%" valign="top">
-
 </td>
 </tr>
 </table>
@@ -159,12 +158,12 @@ Automated attendance tracking using real-time face detection and recognition fro
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-004A7C?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-004A7C?style=for-the-badge&logoColor=white)
 
 **LLM / AI**  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 **Data Engineering**  
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -180,16 +179,15 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Khushipatel27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushipatel27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khushipatel27&theme=tokyonight&hide_border=true"/>
+| 🎓 | 📦 | 🚀 | 💼 |
+|:---:|:---:|:---:|:---:|
+| **4.0 GPA** | **9 Projects** | **5 Deployed Apps** | **ML Intern @ Techsture** |
+| MS Applied Data Science | End-to-end ML & AI | Streamlit · Live & Running | YOLOv8 · 21% accuracy boost |
+
 </div>
 
 ---
@@ -198,7 +196,7 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 ### 💬 Let's Connect!
 
-*I'm open to Summer 2026 internship opportunities in Data Science, ML Engineering, AI Engineering, Data Engineering, and Data Analytics.*
+*Open to Summer 2026 internship opportunities in Data Science, ML Engineering, AI Engineering, Data Engineering, and Data Analytics.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushipatel2024)
 
