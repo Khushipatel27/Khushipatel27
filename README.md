@@ -24,9 +24,9 @@
 
 First-year **MS Applied Data Science** student at **USC Viterbi** (4.0 GPA) with a background in Computer Science. I specialize in building **end-to-end ML and AI pipelines** — from real-time computer vision systems and hybrid forecasting models to LLM-powered RAG apps and interactive analytics dashboards.
 
-🔭 Currently deploying production-grade ML systems with Streamlit  
-🌱 Deepening expertise in LLMs, distributed computing (PySpark), and MLOps  
-💡 Interested in AI/ML, data engineering, and applied analytics  
+🔭 Currently deploying production-grade ML systems with Streamlit
+🌱 Deepening expertise in LLMs, distributed computing (PySpark), and MLOps
+💡 Interested in AI/ML, data engineering, and applied analytics
 📫 Open to **Summer 2026 internships** — Data Science · ML Engineering · AI Engineering · Data Engineering
 
 ---
@@ -138,6 +138,14 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 </td>
 <td width="50%" valign="top">
+
+### ⚖️ BiasLens — Bias Signal Detection
+[![Repo](https://img.shields.io/badge/Repo-BiasLens-38BDF8?style=flat-square&logo=github)](https://github.com/Khushipatel27/BiasLens)
+
+NLP pipeline scanning 75K hotel reviews for discriminatory language across 8 bias categories. Hybrid keyword lexicon + logistic regression classifier with interactive Streamlit dashboard.
+
+`Python` `scikit-learn` `TF-IDF` `LDA` `NLTK` `Streamlit` `Plotly`
+
 </td>
 </tr>
 </table>
@@ -148,29 +156,29 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 <div align="center">
 
-**Languages**  
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**ML / Deep Learning**  
+**ML / Deep Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-004A7C?style=for-the-badge&logoColor=white)
 
-**LLM / AI**  
+**LLM / AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
-**Data Engineering**  
+**Data Engineering**
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Visualization & Deployment**  
+**Visualization & Deployment**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -185,7 +193,7 @@ Automated attendance tracking using real-time face detection and recognition fro
 
 | 🎓 | 📦 | 🚀 | 💼 |
 |:---:|:---:|:---:|:---:|
-| **4.0 GPA** | **9 Projects** | **5 Deployed Apps** | **ML Intern @ Techsture** |
+| **4.0 GPA** | **10 Projects** | **5 Deployed Apps** | **ML Intern @ Techsture** |
 | MS Applied Data Science | End-to-end ML & AI | Streamlit · Live & Running | YOLOv8 · 21% accuracy boost |
 
 </div>
